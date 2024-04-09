@@ -1,3 +1,14 @@
+"""main.py : Execute quelques manipulations sur des arrays
+
+Ce fichier répond aux questions de l'exercice noté 6 qui demande de manipuler
+des listes grace à la méthode map() et functools.reduce() pour nous entrainer.
+
+@Date: 9 avril 2024
+@Author: Mathieu Ducharme
+@Contact: mathieu.ducharme@umontreal.ca
+@Matricule: 20297456
+"""
+
 import random
 import functools
 
