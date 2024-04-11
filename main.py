@@ -114,6 +114,7 @@ def run_unit_tests():
 
 # Question 5
 def main():
+    # Execute les tests unitaires
     run_unit_tests()
 
     # Affichage des résultats demandés
